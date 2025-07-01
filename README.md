@@ -81,4 +81,4 @@ Este curso ha sido diseñado por el Dr. Julio César Galindo López con el apoyo
 
 ---
 
-**Estudiante: ** Mtro. Fernando Cornejo Gutiérrez
+**Estudiante:** Mtro. Fernando Cornejo Gutiérrez
