@@ -3,6 +3,7 @@
 **Modalidad:** Virtual  
 **Duración:** 40 horas  
 **Instructor:** Dr. Julio César Galindo López  
+**Correo:** cesar_gal@ciencias.unam.mx  
 **Plataforma:** Zoom
 
 ## Descripción general
